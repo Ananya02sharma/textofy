@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textofy/static/css/main.abd64e84.css",
+    "main.js": "/textofy/static/js/main.69e9e3cf.js",
+    "static/js/787.ee84d67d.chunk.js": "/textofy/static/js/787.ee84d67d.chunk.js",
+    "index.html": "/textofy/index.html",
+    "main.abd64e84.css.map": "/textofy/static/css/main.abd64e84.css.map",
+    "main.69e9e3cf.js.map": "/textofy/static/js/main.69e9e3cf.js.map",
+    "787.ee84d67d.chunk.js.map": "/textofy/static/js/787.ee84d67d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.69e9e3cf.js"
+  ]
+}
